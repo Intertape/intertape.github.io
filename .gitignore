@@ -1,0 +1,10 @@
+# User-specific files
+/.osp
+prepros.config
+
+# Windows Explorer
+*.ini
+*.lnk
+
+# Reference
+reference/
