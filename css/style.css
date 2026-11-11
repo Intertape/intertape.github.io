@@ -1,0 +1,133 @@
+body {
+    background-color: #fafafa;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Навигационная панель */
+
+.navbar {
+    margin: 20px auto;
+    padding: 12px 20px;
+
+    width: calc(100% - 80px);
+    max-width: 1400px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #ffffff;
+
+    border-radius: 20px;
+
+    box-sizing: border-box;
+
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.06);
+
+}
+
+
+/* Левая часть */
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+
+/* Логотип */
+
+.logo img {
+    display: block;
+    height: 40px;
+}
+
+
+/* Навигация */
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.navigation a {
+    color: #222;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+/* Правая часть */
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+
+/* Кнопки */
+
+.nav-button {
+    border: none;
+    background: none;
+
+    font-family: inherit;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    padding: 8px 10px;
+}
+
+
+/* Аккаунт */
+
+.account {
+    color: #222;
+    text-decoration: none;
+
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+/* Регистрация */
+
+.register {
+    padding: 10px 16px;
+
+    background-color: #222;
+    color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+
+    font-size: 14px;
+    font-weight: 500;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+.normal {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.semibold {
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 700;
+}

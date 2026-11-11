@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Тип_1" data-name="Тип 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #68b681;
+      }
+
+      .cls-2 {
+        fill: #1e5333;
+      }
+
+      .cls-3 {
+        fill: #316848;
+      }
+
+      .cls-4 {
+        fill: #71b989;
+      }
+
+      .cls-5 {
+        fill: #9dd8af;
+      }
+
+      .cls-6 {
+        fill: #7ec996;
+      }
+
+      .cls-7 {
+        fill: #fafafa;
+      }
+    </style>
+  </defs>
+  <rect id="_Фон" data-name="Фон" class="cls-7" x="0" y="0" width="400" height="400" rx="200" ry="200"/>
+  <polygon class="cls-1" points="37.26 288.38 116.06 132.03 124.99 213.8 37.26 288.38"/>
+  <polygon class="cls-1" points="116.06 132.03 153.96 197.07 124.99 213.8 116.06 132.03"/>
+  <polygon class="cls-5" points="198.61 189.31 216.31 266.64 289.17 275.38 239.9 218.67 198.61 189.31"/>
+  <polygon class="cls-5" points="239.9 218.67 287.1 275.13 355.41 283.33 239.9 218.67"/>
+  <polygon class="cls-6" points="198.61 189.31 161.25 203.77 125.96 279.68 198.61 189.31"/>
+  <polygon class="cls-4" points="239.9 218.67 268.81 234.85 264.64 207.3 239.9 218.67"/>
+  <polygon class="cls-6" points="198.61 189.31 125.96 279.68 216.31 266.64 198.61 189.31"/>
+  <polygon class="cls-4" points="221.58 57.1 355.41 283.33 268.81 234.85 264.4 207.94 221.58 57.1"/>
+  <polygon class="cls-3" points="163.85 191.35 198.61 189.31 233.11 213.8 221.58 57.1 163.85 191.35"/>
+  <polygon class="cls-2" points="221.58 57.1 306.58 200.79 264.4 207.94 239.9 218.67 226.93 209.41 221.58 57.1"/>
+</svg>

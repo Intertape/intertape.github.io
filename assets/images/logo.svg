@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: #ade1bb;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        fill: #316948;
+      }
+
+      .cls-5 {
+        fill: #68b681;
+      }
+
+      .cls-6 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-size: 102.34px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #1e5333;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        fill: #316848;
+      }
+
+      .cls-10 {
+        fill: #71b989;
+      }
+
+      .cls-11 {
+        fill: #9dd8af;
+      }
+
+      .cls-12 {
+        fill: #c1eccd;
+      }
+
+      .cls-13 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-14 {
+        fill: #7ec996;
+      }
+
+      .cls-15 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-16 {
+        fill: #69b581;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-5" points="21.39 175.7 75.49 68.36 81.62 124.49 21.39 175.7"/>
+  <polygon class="cls-2" points="75.49 68.36 101.51 113.01 81.62 124.49 75.49 68.36"/>
+  <polygon class="cls-11" points="132.16 107.68 144.31 160.77 194.34 166.78 160.51 127.84 132.16 107.68"/>
+  <polygon class="cls-12" points="160.51 127.84 192.92 166.61 239.82 172.23 160.51 127.84"/>
+  <polygon class="cls-16" points="132.16 107.68 106.52 117.61 82.29 169.73 132.16 107.68"/>
+  <polygon class="cls-4" points="160.51 127.84 180.36 138.95 177.5 120.03 160.51 127.84"/>
+  <polygon class="cls-14" points="132.16 107.68 82.29 169.73 144.31 160.77 132.16 107.68"/>
+  <polygon class="cls-10" points="147.94 16.91 239.82 172.23 180.36 138.95 177.33 120.47 147.94 16.91"/>
+  <polygon class="cls-9" points="108.3 109.08 132.16 107.68 155.85 124.49 147.94 16.91 108.3 109.08"/>
+  <polygon class="cls-7" points="147.94 16.91 206.3 115.56 177.33 120.47 160.51 127.84 151.61 121.48 147.94 16.91"/>
+  <text class="cls-6" transform="translate(284.52 131.61)"><tspan class="cls-1" x="0" y="0">In</tspan><tspan class="cls-15" x="97.63" y="0">t</tspan><tspan class="cls-3" x="136.62" y="0">e</tspan><tspan class="cls-8" x="197.71" y="0">r</tspan><tspan class="cls-13" x="239.67" y="0">t</tspan><tspan class="cls-3" x="278.56" y="0">ape</tspan></text>
+</svg>
